@@ -1,3 +1,3 @@
-Hi! Anthony, here
+Hi! Anthony here
 
 Welcome to my github!
